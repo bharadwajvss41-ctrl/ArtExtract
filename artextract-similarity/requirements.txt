@@ -1,0 +1,11 @@
+torch
+torchvision
+pandas
+numpy
+scikit-learn
+opencv-python
+ultralytics
+matplotlib
+pillow
+requests
+git+https://github.com/openai/CLIP.git
